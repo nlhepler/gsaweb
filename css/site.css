@@ -2,3 +2,7 @@
     background: none;
     padding-right: 0;
 }
+#site-logo img {
+    display: block;
+    margin: 0 auto;
+}
