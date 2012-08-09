@@ -30,10 +30,10 @@ executing all operational and programming-related business of GSA.
 
 ## Read more about GSA:
 
- - [Mission and Goals](/mission.html)
- - [History](/history.html)
- - [Constitution](/council/docs/constitution.html)
- - [Financial Bylaws](/council/docs/bylaws/financial.html)
- - [Election Bylaws](/council/docs/bylaws/election.html)
- - [Elected and Appointed Officer Bylaws](/council/docs/bylaws/officer.html)
- - [Committee Bylaws](/council/docs/bylaws/committee.html)
+ - [Mission and Goals](/council/mission_and_goals.html)
+ - [History](/council/history.html)
+ - [Constitution](/council/governing_documents/constitution.html)
+ - [Financial Bylaws](/council/governing_documents/bylaws/financial_bylaws.html)
+ - [Election Bylaws](/council/governing_documents/bylaws/election_bylaws.html)
+ - [Elected and Appointed Officer Bylaws](/council/governing_documents/bylaws/elected_and_appointed_officer_bylaws.html)
+ - [Committee Bylaws](/council/governing_documents/bylaws/committee_bylaws.html)
